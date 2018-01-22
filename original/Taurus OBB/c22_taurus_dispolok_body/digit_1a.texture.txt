@@ -1,0 +1,2 @@
+Primary=digit_1a.tga
+Tile=st

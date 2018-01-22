@@ -1,0 +1,2 @@
+Primary=main_dispo.tga
+Tile=st

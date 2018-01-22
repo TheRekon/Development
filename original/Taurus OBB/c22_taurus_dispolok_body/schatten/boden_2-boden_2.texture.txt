@@ -1,0 +1,3 @@
+Primary=boden_2.tga
+Alpha=boden_2.bmp
+Tile=st

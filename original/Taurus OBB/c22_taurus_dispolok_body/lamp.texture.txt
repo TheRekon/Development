@@ -1,0 +1,2 @@
+Primary=lamp.tga
+Tile=st

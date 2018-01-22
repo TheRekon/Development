@@ -1,0 +1,2 @@
+Primary=digit_3b.tga
+Tile=st
